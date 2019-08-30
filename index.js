@@ -30,7 +30,7 @@ function iLoveTheBeatles(num){
   
   var string;
   do {
-    string.push("I love The Beatles!");
+    string.push("I love the Beatles!");
     num += 1;
     
   }
